@@ -2,7 +2,6 @@
 In this video, I'm going to show you the pandas mistake that many people make when using groupby and how you can avoid it.
 
 ## Video Tutorial
-..will follow soon!
 [![YouTube Video](https://img.youtube.com/vi/ko6LiZUVU0A/0.jpg)](https://youtu.be/ko6LiZUVU0A)
 
 
