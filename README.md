@@ -3,7 +3,7 @@ In this video, I'm going to show you the pandas mistake that many people make wh
 
 ## Video Tutorial
 ..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/ko6LiZUVU0A/0.jpg)](https://youtu.be/ko6LiZUVU0A)
 
 
 ## About Me
